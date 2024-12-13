@@ -1,0 +1,45 @@
+[0.983s] Invoking command in '/home/sotomi/ms_project/src/vfm_pkg': PYTHONPATH=/home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/vfm_pkg build --build-base /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build install --record /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/install.log --single-version-externally-managed install_data
+[1.134s] running egg_info
+[1.135s] creating build/vfm_pkg/vfm_pkg.egg-info
+[1.135s] writing build/vfm_pkg/vfm_pkg.egg-info/PKG-INFO
+[1.135s] writing dependency_links to build/vfm_pkg/vfm_pkg.egg-info/dependency_links.txt
+[1.135s] writing entry points to build/vfm_pkg/vfm_pkg.egg-info/entry_points.txt
+[1.135s] writing requirements to build/vfm_pkg/vfm_pkg.egg-info/requires.txt
+[1.135s] writing top-level names to build/vfm_pkg/vfm_pkg.egg-info/top_level.txt
+[1.135s] writing manifest file 'build/vfm_pkg/vfm_pkg.egg-info/SOURCES.txt'
+[1.136s] reading manifest file 'build/vfm_pkg/vfm_pkg.egg-info/SOURCES.txt'
+[1.136s] writing manifest file 'build/vfm_pkg/vfm_pkg.egg-info/SOURCES.txt'
+[1.136s] running build
+[1.136s] running build_py
+[1.136s] creating /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build
+[1.137s] creating /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib
+[1.137s] creating /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[1.137s] copying vfm_pkg/blip.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[1.137s] copying vfm_pkg/llm.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[1.137s] copying vfm_pkg/__init__.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[1.137s] copying vfm_pkg/heatmap.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[1.137s] copying vfm_pkg/camera.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[1.137s] running install
+[1.137s] running install_lib
+[1.137s] creating /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[1.137s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/blip.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[1.137s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/llm.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[1.137s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/__init__.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[1.137s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/heatmap.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[1.137s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/camera.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[1.138s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/blip.py to blip.cpython-310.pyc
+[1.138s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/llm.py to llm.cpython-310.pyc
+[1.138s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/__init__.py to __init__.cpython-310.pyc
+[1.138s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/heatmap.py to heatmap.cpython-310.pyc
+[1.138s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/camera.py to camera.cpython-310.pyc
+[1.138s] running install_data
+[1.138s] creating /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/share/ament_index
+[1.138s] creating /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/share/ament_index/resource_index
+[1.138s] creating /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/share/ament_index/resource_index/packages
+[1.138s] copying resource/vfm_pkg -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/share/ament_index/resource_index/packages
+[1.138s] copying package.xml -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/share/vfm_pkg
+[1.138s] running install_egg_info
+[1.139s] Copying build/vfm_pkg/vfm_pkg.egg-info to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg-0.0.0-py3.10.egg-info
+[1.139s] running install_scripts
+[1.154s] writing list of installed files to '/home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/install.log'
+[1.167s] Invoked command in '/home/sotomi/ms_project/src/vfm_pkg' returned '0': PYTHONPATH=/home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/vfm_pkg build --build-base /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build install --record /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/install.log --single-version-externally-managed install_data

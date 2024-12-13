@@ -1,0 +1,6 @@
+[console_scripts]
+blip_node = vfm_pkg.blip:main
+camera_node = vfm_pkg.camera:main
+heatmap_node = vfm_pkg.heatmap:main
+llm_node = vfm_pkg.llm:main
+

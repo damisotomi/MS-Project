@@ -1,0 +1,36 @@
+[1.127s] Invoking command in '/home/sotomi/ms_project/src/vfm_pkg': PYTHONPATH=/home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/vfm_pkg build --build-base /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build install --record /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/install.log --single-version-externally-managed install_data
+[1.288s] running egg_info
+[1.288s] writing build/vfm_pkg/vfm_pkg.egg-info/PKG-INFO
+[1.294s] writing dependency_links to build/vfm_pkg/vfm_pkg.egg-info/dependency_links.txt
+[1.299s] writing entry points to build/vfm_pkg/vfm_pkg.egg-info/entry_points.txt
+[1.302s] writing requirements to build/vfm_pkg/vfm_pkg.egg-info/requires.txt
+[2.619s] writing top-level names to build/vfm_pkg/vfm_pkg.egg-info/top_level.txt
+[2.624s] reading manifest file 'build/vfm_pkg/vfm_pkg.egg-info/SOURCES.txt'
+[2.625s] writing manifest file 'build/vfm_pkg/vfm_pkg.egg-info/SOURCES.txt'
+[2.787s] running build
+[2.788s] running build_py
+[2.788s] copying vfm_pkg/blip.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[2.788s] copying vfm_pkg/llm.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[2.789s] copying vfm_pkg/heatmap.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[2.789s] copying vfm_pkg/camera.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+[2.789s] running install
+[2.789s] running install_lib
+[2.790s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/blip.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[2.790s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/llm.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[2.790s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/heatmap.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[2.791s] copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/camera.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+[2.791s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/blip.py to blip.cpython-310.pyc
+[2.906s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/llm.py to llm.cpython-310.pyc
+[3.085s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/heatmap.py to heatmap.cpython-310.pyc
+[3.089s] byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/camera.py to camera.cpython-310.pyc
+[3.092s] running install_data
+[3.092s] running install_egg_info
+[3.096s] removing '/home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[3.096s] Copying build/vfm_pkg/vfm_pkg.egg-info to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg-0.0.0-py3.10.egg-info
+[3.097s] running install_scripts
+[3.113s] Installing blip_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+[3.113s] Installing camera_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+[3.113s] Installing heatmap_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+[3.113s] Installing llm_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+[3.113s] writing list of installed files to '/home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/install.log'
+[3.175s] Invoked command in '/home/sotomi/ms_project/src/vfm_pkg' returned '0': PYTHONPATH=/home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/vfm_pkg build --build-base /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build install --record /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/install.log --single-version-externally-managed install_data

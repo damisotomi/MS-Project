@@ -1,0 +1,34 @@
+running egg_info
+writing build/vfm_pkg/vfm_pkg.egg-info/PKG-INFO
+writing dependency_links to build/vfm_pkg/vfm_pkg.egg-info/dependency_links.txt
+writing entry points to build/vfm_pkg/vfm_pkg.egg-info/entry_points.txt
+writing requirements to build/vfm_pkg/vfm_pkg.egg-info/requires.txt
+writing top-level names to build/vfm_pkg/vfm_pkg.egg-info/top_level.txt
+reading manifest file 'build/vfm_pkg/vfm_pkg.egg-info/SOURCES.txt'
+writing manifest file 'build/vfm_pkg/vfm_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying vfm_pkg/blip.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+copying vfm_pkg/llm.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+copying vfm_pkg/heatmap.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+copying vfm_pkg/camera.py -> /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg
+running install
+running install_lib
+copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/blip.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/llm.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/heatmap.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+copying /home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/build/lib/vfm_pkg/camera.py -> /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg
+byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/blip.py to blip.cpython-310.pyc
+byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/llm.py to llm.cpython-310.pyc
+byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/heatmap.py to heatmap.cpython-310.pyc
+byte-compiling /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg/camera.py to camera.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/vfm_pkg/vfm_pkg.egg-info to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/python3.10/site-packages/vfm_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing blip_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+Installing camera_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+Installing heatmap_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+Installing llm_node script to /home/sotomi/ms_project/src/vfm_pkg/install/vfm_pkg/lib/vfm_pkg
+writing list of installed files to '/home/sotomi/ms_project/src/vfm_pkg/build/vfm_pkg/install.log'
